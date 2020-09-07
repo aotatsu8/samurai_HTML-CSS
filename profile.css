@@ -1,0 +1,16 @@
+@charset"utf-8";
+.blue{
+    color:blue;
+}
+.green{
+    color:green;
+}
+.red{
+    color:red;
+}
+.yellow{
+    color:yellow;
+}
+.fw-bold{
+    font-weight:bold;
+}
